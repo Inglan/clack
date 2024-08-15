@@ -1,6 +1,6 @@
 # clack
 
-Ticktok wrapper
+Tiktok wrapper
 
 This is a tinfoil-style wrapper around TikTok that better respects your
 privacy.
